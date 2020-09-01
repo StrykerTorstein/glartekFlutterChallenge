@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+	package
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:1-15:12
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:4:3-9:17
+meta-data#unity.splash-mode
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:5:5-69
+	android:value
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:5:49-66
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:5:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:6:5-74
+	android:value
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:6:51-71
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:6:16-50
+meta-data#notch.config
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:7:5-81
+	android:value
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:7:44-78
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:7:16-43
+meta-data#unity.build-id
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:8:5-101
+	android:value
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:8:46-98
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:8:16-45
+uses-feature#0x00030000
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:10:3-52
+	android:glEsVersion
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:10:17-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:11:3-65
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:11:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:12:3-88
+	android:required
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:12:61-85
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:12:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:13:3-99
+	android:required
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:13:72-96
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:13:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:14:3-108
+	android:required
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:14:81-105
+	android:name
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml:14:17-80
+uses-sdk
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samba\Desktop\flutter-unity\example\android\unityExport\src\main\AndroidManifest.xml
